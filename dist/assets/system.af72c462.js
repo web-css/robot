@@ -1,1 +1,1 @@
-var s="/assets/system.c33d4c8a.svg";export{s as default};
+var s="./assets/system.c33d4c8a.svg";export{s as default};
