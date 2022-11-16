@@ -1,0 +1,1 @@
+/* empty css                                                          */import{_ as e,o as _,c as t}from"./index.a07e172a.js";/* empty css                                                           */const o={class:"container"},a={__name:"index",setup(c){return(r,s)=>(_(),t("div",o,"213213"))}};var d=e(a,[["__scopeId","data-v-758c4b9f"]]);export{d as default};
