@@ -1,0 +1,1 @@
+import o from"./index.b30cc5d2.js";import t from"./index.b3f98ed0.js";import{_ as s,o as _,c,a,F as r,p as d,b as p,d as n}from"./index.08c3b6ff.js";const i=e=>(d("data-v-1207c8d2"),e=e(),p(),e),l=i(()=>n("div",{class:"container"},null,-1)),m={__name:"index",setup(e){return(u,v)=>(_(),c(r,null,[a(o),a(t),l],64))}};var h=s(m,[["__scopeId","data-v-1207c8d2"]]);export{h as default};
